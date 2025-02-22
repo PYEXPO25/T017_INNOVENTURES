@@ -113,6 +113,7 @@ Landing Page:
    ![Image](https://github.com/user-attachments/assets/496fe99d-23d3-427c-bed1-c7f18c702c75)
    ![Image](https://github.com/user-attachments/assets/8113bfc0-fa2d-4a78-bacc-84a5e0304ebf)
    ![Image](https://github.com/user-attachments/assets/7c3ebe72-f9ac-4ceb-b11e-bf84be76d296)
+   ![Image](https://github.com/user-attachments/assets/1b543f67-d58c-4752-8f43-7d00e7979756)
 
    ![Image](https://github.com/user-attachments/assets/496fe99d-23d3-427c-bed1-c7f18c702c75)
    
