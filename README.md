@@ -5,32 +5,31 @@
 
 ## Problem Statement
 
-Problem Statement ID – xxxxx
+Problem Statement ID – PY044
 
-Formulate your problem statement clearly and concisely.
+Farmers and animal owners often struggle with managing their animals' health because they may not have easy access to expert advice in their local language. They face challenges when they need to ask questions about diseases, symptoms, or other animal health issues, and may not know how to properly communicate their concerns.
+
 
 ---
 
 ## Overview
 
-Provide an overview of the project, its purpose, and what it aims to achieve along with proposed solution
+This system streamlines animal healthcare by providing efficient tools for diagnosis and care management, ensuring improved accuracy and accessibility for users.
 
 ---
 
 ## Team Members
 
-Team ID – xxxxx
+Team ID – T017
 
 List your team members along with their roles.
 
-- Member 1 - Team Leader
-- Member 2 - Role
-- Member 3 - Role
-- Member 4 - Role
-- Member 5 - Role
-- Member 6 - Role
-- Member 7 - Role
-- Member 8 - Role
+Zuvairiya shifa S - Team leader
+Shri Vathsa M - AIML domain
+Rithish S - frontend domain
+Swetha G - Backend domain
+Santhiya A - Project domain
+Rohith S - AIML domain
 
 ![Team Photo](media/team-photo.png)
 
@@ -40,10 +39,10 @@ List your team members along with their roles.
 
 List the technologies and tools used in the project. For example:
 
-- Frontend: HTML, CSS, JavaScript, ReactJS
-- Backend: Flask, Django
-- Database: MongoDB, MySQL
-- Other Tools: Docker, Git, TensorFlow
+- Frontend: HTML, CSS
+- Backend: Flask
+- Database: MySQL
+- Other Tools: Git, TensorFlow,gemini AI,
 
 ---
 
