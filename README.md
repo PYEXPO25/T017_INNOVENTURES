@@ -31,7 +31,7 @@ Swetha G - Backend domain
 Santhiya A - Project domain
 Rohith S - AIML domain
 
-![Team Photo](media/team-photo.png)
+![Image](https://github.com/user-attachments/assets/7fb9dc8f-79a9-4a7f-9a21-157a05cd24a8)
 
 ---
 
