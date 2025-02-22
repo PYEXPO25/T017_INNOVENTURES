@@ -1,5 +1,5 @@
 # T017_INNOVENTURES
-![PyExpo Logo](media/pyexpo-logo.png)
+![Image](https://github.com/user-attachments/assets/c6b9f5e9-48c0-4f51-8945-7cc5def1b5f4)
 
 ---
 
