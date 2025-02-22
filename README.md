@@ -110,6 +110,8 @@ Example pages:
 
 Landing Page:
    ![Image](https://github.com/user-attachments/assets/d11972a6-dea4-4ad0-beab-c013f42c472b)
+   ![Image](https://github.com/user-attachments/assets/496fe99d-23d3-427c-bed1-c7f18c702c75)
+   
 
 
 
