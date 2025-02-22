@@ -108,14 +108,10 @@ Images to demonstrate the user interface:
 
 Example pages:
 
-1. Landing Page:
+Landing Page:
+   ![Image](https://github.com/user-attachments/assets/d11972a6-dea4-4ad0-beab-c013f42c472b)
    ![Image](https://github.com/user-attachments/assets/d11972a6-dea4-4ad0-beab-c013f42c472b)
 
-2. Dashboard:
-   ![Dashboard Mockup](media/DashBoard.png)
-
-3. Analytics View:
-   ![Analytics Mockup](media/Analytics.png)
 
 ---
 
