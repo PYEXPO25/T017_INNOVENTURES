@@ -128,7 +128,7 @@ Landing Page:
 [T017_Inno ventures.pptx](https://github.com/user-attachments/files/18929096/T017_Inno.ventures.pptx)
 
 ### 🎥 Project Video
-[Click here to view the project demo video](insert-drive-link-here)
+https://drive.google.com/file/d/1YR3Ma9OX8lCNAf4Xmupw66sMi4attJvC/view?usp=drivesdk
 
 ### 📹 YouTube Link
 [Watch the project on YouTube](insert-youtube-link-here)
