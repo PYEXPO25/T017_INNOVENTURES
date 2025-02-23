@@ -125,7 +125,7 @@ Landing Page:
 ## Resources
 
 ### 📄 PowerPoint Presentation
-[Click here to view the PPT](insert-drive-link-here)
+[T017_Inno ventures.pptx](https://github.com/user-attachments/files/18929096/T017_Inno.ventures.pptx)
 
 ### 🎥 Project Video
 [Click here to view the project demo video](insert-drive-link-here)
