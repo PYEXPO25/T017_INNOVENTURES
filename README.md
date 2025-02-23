@@ -56,7 +56,7 @@ Follow these steps to clone and run the application locally.
 2. Install [Git](https://git-scm.com/).
 3. Clone this repository:
    bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/PYEXPO25/T017_INNOVENTURES.git
    
 
 ### Installation
